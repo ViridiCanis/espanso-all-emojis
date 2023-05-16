@@ -1,0 +1,7 @@
+author: ViridiFox
+description: All emojis, with alt names, provided by gemoji (Fork of FoxxMD's repo)
+name: all-emojis
+title: All Emojis
+version: 0.1.0
+homepage: "https://github.com/ViridiFox/espanso-all-emojis"
+tags: ["emoji", "chat"]
